@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Barracuda72/android_device_lenovo_9707F'
+        default: 'https://github.com/lddnsk/android_device_lenovo_9707F'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
@@ -32,7 +32,7 @@ on:
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: '9707f'
+        default: '9707F'
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
